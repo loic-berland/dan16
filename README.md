@@ -23,7 +23,7 @@ D2                      B2
 *The encoder has a push button that acts as a switch at row 0, col 0*
 
 # QMK
-The QMK source code will be available soon
+[Here](https://github.com/loic-berland/qmk_firmware/tree/dev_branch/keyboards/handwired/dan16) is my fork of the QMK firmware, it includes everything you need to build your own keymap, including VIA support.
 
 # Build Specs
 * JWICKS Yellow switches
