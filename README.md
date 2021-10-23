@@ -5,7 +5,7 @@
 
 The dan16 is a handwired 3d printed macropad with a rotary encoder.
 It is based ont the [Void16](https://github.com/victorlucachi/void16) case files by [Victor Lucachi](https://github.com/victorlucachi)
-It is powered by QMK runnung on a Pro micro controller
+It is powered by QMK running on a Pro micro controller
 
 # Wiring
 ```
